@@ -10,6 +10,6 @@
 ## Использование
 Запустите сперва Server, потом два Client через соответствующие в них main фуннкции.
 
-## Демонстрация работы
+## Демонстрация работы на YouTube
 
-[![Alt текст](https://img.youtube.com/vi/aSbDN1I45GI/0.jpg)](https://www.youtube.com/watch?v=aSbDN1I45GI)
+[![YouTube video](https://img.youtube.com/vi/aSbDN1I45GI/0.jpg)](https://www.youtube.com/watch?v=aSbDN1I45GI)
